@@ -80,7 +80,7 @@ The same models the server returns, as full lessons on the website:
 
 - Privacy: https://origamitutor.com/privacy
 - Terms: https://origamitutor.com/terms
-- Support: support@origamitutor.com
+- Support: abishop1933@gmail.com
 
 The server stores no personal data. When you follow a link from the app to the website, the site records the link source, the page, the time, the country and a bot flag. It records no IP address and sets no cookies.
 
