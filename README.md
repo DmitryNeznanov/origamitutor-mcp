@@ -60,6 +60,16 @@ Clients that only launch local servers can connect through a bridge such as [`mc
 - "What can I fold for Mother's Day in 20 minutes?"
 - "What paper do I need for a crane?"
 
+## Popular lessons
+
+The same models the server returns, as full lessons on the website:
+
+- [Origami crane](https://origamitutor.com/origami/crane)
+- [Paper fortune teller](https://origamitutor.com/origami/fortune-teller)
+- [Origami heart](https://origamitutor.com/origami/heart)
+- [Paper airplanes](https://origamitutor.com/paper-airplanes)
+- [Easy origami](https://origamitutor.com/easy-origami)
+
 ## Screenshots
 
 | Catalog | Model | Steps |
